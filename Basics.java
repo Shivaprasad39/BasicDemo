@@ -54,7 +54,7 @@ public class Basics {
 	System.out.println(actualAddress);
 	Assert.assertEquals(actualAddress, "Pacific ocean");
 	//Cucumber Junit, Testng
-	
+	System.out.println("Pacific ocean");
 	
 	
 	
